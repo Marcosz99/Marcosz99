@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, Eu sou Marcos!
 
-<!--
-**Marcosz99/Marcosz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Aprendendo linguagens de programação: Java, Python, C#
+- 👨‍🎓 UNIP Ciência da computação 3 / 8
+- 🤔 Procurando emprego na area de tecnologia
+- 📫 Contato: 15 98826-3757
+- 🖥️ Email: marcossantos13690@gmail.com
+- 😄 Pronomes: Ele/Dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display": "inline-block"><br>
+  <img height= "80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  
+  <img height= "80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height= "80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</div>
